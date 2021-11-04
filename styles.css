@@ -1,0 +1,146 @@
+/*Google font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Ubuntu:wght@300;400;700&display=swap');
+
+
+#title{
+    background-color: #ff4c68;
+    color:#fff;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;}
+
+h2{
+    font-size: 3rem;
+    line-height: 1.5;}
+
+
+
+#title{
+    padding: 7% 15%;
+}
+
+.title-image{
+    width:60%;
+    transform: rotate(25deg);
+   
+}
+
+/*Navigation bar */
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+}
+
+.nav-item{
+    padding:0 18px;
+}
+
+.nav-link{
+    font-size:1.2rem;
+    font-family:'Montserrat', sans-serif;
+}
+
+.download-button{
+margin:5% 3% 5% 0;
+}
+
+h3{
+    font-family:'Montserrat', sans-serif;
+    font-size:1.5rem;
+    
+}
+
+p{
+    color: #8f8f8f;
+}
+.col-lg-4{
+    text-align:center;
+
+}
+
+#features{
+    padding:7% 15%;
+}
+
+.features-tag{
+    color:#ef8172;
+    margin-bottom:1rem;
+    text-align:center;
+}
+
+.features-tag:hover{
+    color:#ff4c68;
+}
+
+#testimonials{
+    padding:7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color:#fff;
+}
+
+#press{
+    padding-bottom:5%;
+    background-color: #ef8172;
+    text-align: center;}
+
+#pricing{
+    padding:7% 15%;
+    text-align: center;
+    margin-bottom: -3%;
+}
+
+.cute-img{
+    width:10%;
+    border-radius: 100%;
+    margin:20px;
+}
+
+.press-image{
+    width:15%;
+    margin:20px 20px 50px;
+}
+
+#cta{
+    background-color: #ef8172;
+    text-align: center;
+    color:#fff;
+    padding: 3% 5%;
+    line-height: 1.5;
+  
+}
+
+.cta-heading{
+    font-size: 2.5rem;
+    margin-bottom: 3%;
+    
+}
+
+#footer{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 3% 5%;
+    
+}
+
+.final-p{
+    color:#fff;
+}
+
+.last-heading{
+    color:#ef8172;
+}
+
+.last-para{
+    margin-bottom:3%;
+}
